@@ -4,8 +4,8 @@ By utilizing technology to identify potential safety hazards, the innovative pro
 
 - [Objectives](#objectives)
 - [Block Diagram of the system](#blockdiagram)
-- [Hardware Used](**hardware**)
-- [Software Requirements](**software**)
+- [Hardware Used](#hardware)
+- [Software Requirements](#software)
 - [Conclusion](#conclusion)
 - [Future Scope](#futurescope)
 
@@ -38,7 +38,7 @@ the system's purpose.
 6. The **Engine Motor** block represents a prototype of the actual motor on an electric
 motorcycle. It consists of an L293D motor driver and a 5V DC toy motor.
 
-**Hardware**
+### Hardware
 
 ● Push Button
 
@@ -53,7 +53,7 @@ motorcycle. It consists of an L293D motor driver and a 5V DC toy motor.
 ● 150 RPM Single Shaft DC Motor
 
 
-**Software**
+### Software
 
 [Arduino IDE(2.1.0)](https://docs.arduino.cc/software/ide-v2) and [ESP8266 library](https://github.com/esp8266/Arduino.git)
 
