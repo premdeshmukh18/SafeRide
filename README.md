@@ -54,9 +54,12 @@ motorcycle. It consists of an L293D motor driver and a 5V DC toy motor.
 
 
 **Software**
+
 [Arduino IDE(2.1.0)](https://docs.arduino.cc/software/ide-v2) and [ESP8266 library](https://github.com/esp8266/Arduino.git)
 
-## Conclusion 
+
+## Conclusion
+
 The “SafeRide” project is a significant contribution to enhancing the safety of
 motorcycle riders. The project involves the integration of different technologies to
 develop a helmet that can detect Alcohol and helmet wear to improve safety. The
